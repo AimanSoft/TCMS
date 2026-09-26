@@ -7,9 +7,9 @@
 - [x] Create Flow of Event for event-driven processes (e.g., PaymentCompleted → Billing + Notification, IncidentReported → Support)
 - [x] Create Data Flow Diagrams (DFD Level 0 — Context Diagram)
 - [x] Create Data Flow Diagrams (DFD Level 1 — Main Processes)
-- [ ] Document data stores and data movements between services
-- [ ] Review Phase 3 deliverables
-- [ ] Mark Phase 3 as completed after all tasks are actually finished
+- [x] Document data stores and data movements between services
+- [x] Review Phase 3 deliverables
+- [x] Mark Phase 3 as completed after all tasks are actually finished
 
 ---
 
