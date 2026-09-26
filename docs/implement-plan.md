@@ -72,20 +72,32 @@
 
 ### Phase 4 — Website Structure & UI/UX
 
-- **الهدف من المرحلة:** تصميم هيكل الموقع وتجربة المستخدم والواجهات الرسومية.
-- **المخرجات المتوقعة:** تصميم هيكل الموقع (Wireframes)، مخططات الانسياب (Flowcharts)، نماذج أولية للواجهات.
-- **المهام الرئيسية:**
-  - تصميم هيكل الموقع الإلكتروني
-  - إنشاء Wireframes للصفحات الرئيسية
-  - تصميم تجربة المستخدم (UX)
-  - تصميم الواجهات الرسومية (UI)
-  - مراجعة وتأكيد التصميمات
+- **الهدف من المرحلة:** تصميم هيكل الموقع وتجربة المستخدم والواجهات الرسومية وفق منهجية HCI/UI/UX الاحترافية.
+- **المخرجات المتوقعة:** Design System مبنٍ على Atomic Design، Wireframes لـ 15 صفحة، تصميم متجاوب (RTL, Mobile-First)، معايير إمكانية الوصول (WCAG 2.1 AA)، أنماط التفاعل، مواصفات الأنيميشن، وأهداف قياس جودة التصميم (SUS > 85, NPS > 50).
+- **المتطلبات الأساسية:**
+  - Design System (Atomic Design + Design Tokens: ألوان، Typography، Spacing Scale)
+  - WCAG 2.1 AA Accessibility Standards (Contrast 4.5:1, Keyboard Navigation, ARIA, Screen Reader)
+  - RTL Support (Arabic-first design)
+  - Responsive Design Strategy (Mobile-First + Breakpoints: Mobile <576px, Tablet 576-991px, Desktop 992-1199px)
+  - Wireframes لـ 15 صفحة عبر 12 وحدة
+  - Navigation Structure (per Role: Admin, Employee, Customer)
+  - Interaction Patterns (Forms, Navigation, Feedback, Empty States)
+  - Cross-Cultural Design (i18n/l10n)
+  - Motion & Animation Guidelines (Micro-interactions 150-300ms, 60fps)
+  - UX Metrics Targets (SUS > 85, NPS > 50)
 - **الحالة:**
-  - [ ] تصميم هيكل الموقع الإلكتروني
-  - [ ] إنشاء Wireframes للصفحات الرئيسية
-  - [ ] تصميم تجربة المستخدم (UX)
-  - [ ] تصميم الواجهات الرسومية (UI)
-  - [ ] مراجعة وتأكيد التصميمات
+  - ⬜ تصميم هيكل الموقع الإلكتروني
+  - ⬜ إنشاء Design System (Atomic Design + Design Tokens)
+  - ⬜ تعريف معايير إمكانية الوصول (WCAG 2.1 AA)
+  - ⬜ تصميم Wireframes للصفحات الرئيسية (15 صفحة)
+  - ⬜ تصميم هيكل التنقل (per Role)
+  - ⬜ تصميم أنماط التفاعل (Interaction Patterns)
+  - ⬜ تصميم تجربة المستخدم (UX)
+  - ⬜ تصميم الواجهات الرسومية (UI)
+  - ⬜ تصميم المتجاوب (Responsive Design)
+  - ⬜ تعريف الأنيميشن والحركة (Motion & Animation)
+  - ⬜ مراجعة وتأكيد التصميمات
+  - ⬜ تحديد أهداف قياس جودة التصميم (SUS, NPS)
 
 ---
 
@@ -159,8 +171,8 @@
 | Detailed implementation plan | ✅ Completed |
 | Phase 1 — Project Planning & Initial Analysis | ✅ Completed (11/11 tasks done) |
 | Phase 2 — Use Case Analysis | ✅ Completed (6/6 tasks done) |
-| Phase 3 — System Flows & Data Flow | 🔄 In Progress |
-| Phase 4 — Website Structure & UI/UX | ⬜ Not Started |
+| Phase 3 — System Flows & Data Flow | ✅ Completed (8/8 tasks done) |
+| Phase 4 — Website Structure & UI/UX | 🔄 In Progress |
 | Phase 5 — System Architecture & Integration | ⬜ Not Started |
 | Phase 6 — Implementation | ⬜ Not Started |
 | Phase 7 — Testing, Audit & Final Review | ⬜ Not Started |
