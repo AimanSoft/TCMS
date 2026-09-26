@@ -156,13 +156,26 @@
 |---|---|
 | فكرة المشروع | ✅ Completed |
 | Initial project idea | ✅ Completed |
-| Detailed implementation plan | 🔄 In Progress |
-| Phase 1 — Project Planning & Initial Analysis | ⬜ Not Started |
-| Phase 2 — Use Case Analysis | ⬜ Not Started |
-| Phase 3 — System Flows & Data Flow | ⬜ Not Started |
+| Detailed implementation plan | ✅ Completed |
+| Phase 1 — Project Planning & Initial Analysis | ✅ Completed (11/11 tasks done) |
+| Phase 2 — Use Case Analysis | ✅ Completed (6/6 tasks done) |
+| Phase 3 — System Flows & Data Flow | 🔄 In Progress |
 | Phase 4 — Website Structure & UI/UX | ⬜ Not Started |
 | Phase 5 — System Architecture & Integration | ⬜ Not Started |
 | Phase 6 — Implementation | ⬜ Not Started |
 | Phase 7 — Testing, Audit & Final Review | ⬜ Not Started |
+
+### ملفات توثيق Phase 1 المُنشأة
+
+| الملف | الوصف |
+|---|---|
+| `docs/project-idea.md` | توثيق فكرة المشروع |
+| `docs/project-scope.md` | توثيق النطاق الأولي |
+| `docs/project-objectives.md` | توثيق الأهداف الرئيسية (16 هدف) |
+| `docs/system-actors.md` | توثيق الجهات الفاعلة (8 Actors) |
+| `docs/system-modules.md` | توثيق الوحدات الرئيسية (11 Modules) |
+| `docs/system-operations.md` | توثيق العمليات الأولية |
+| `docs/system-data-entities.md` | توثيق كيانات البيانات (42 كيان) |
+| `docs/project-boundaries.md` | توثيق الحدود الأولية للمشروع |
 
 > **ملاحظة:** هذه الخطة هي مسودة أولية قابلة للمراجعة والتعديل. يجب مناقشتها مع الدكتور المشرف على المشروع قبل اعتمادها نهائيًا. أي تعارض مع تعليمات الدكتور أو متطلبات المشروع يستوجب تعديل هذه الخطة وفقًا لذلك.

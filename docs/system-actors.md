@@ -7,6 +7,10 @@
 
 ## قائمة الجهات الفاعلة (Actors)
 
+> **ملاحظة:** جميع الجهات الفاعلة مصنفة إلى:
+> - **داخلية (Internal):** Super Admin, Company Admin, Branch Manager, Customer Service Employee, Accountant, Network Engineer, Support Agent
+> - **خارجية (External):** Customer
+
 ### 1. Super Admin
 - **الوصف:** المشرف العام على النظام بكامل صلاحياته.
 - **الصلاحيات:** كامل الصلاحيات على النظام بالكامل.
